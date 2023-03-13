@@ -1,0 +1,4149 @@
+{
+  "players": [
+    {
+      "favoriteNumbers": [
+        23
+      ],
+      "name": "O. Benitez",
+      "position": "RWF",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 71,
+      "nation": "ARGENTINA",
+      "homegrown": "ARGENTINA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        7
+      ],
+      "name": "M. Larrondo",
+      "position": "CF",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 71,
+      "nation": "CHILE",
+      "homegrown": "ARGENTINA",
+      "secondNation": "ARGENTINA"
+    },
+    {
+      "favoriteNumbers": [
+        3
+      ],
+      "name": "I. Canuto",
+      "position": "CB",
+      "eFootball": "2021M",
+      "pesID": null,
+      "overall": 70,
+      "nation": "ARGENTINA",
+      "homegrown": "ARGENTINA",
+      "secondNation": "ITALY"
+    },
+    {
+      "favoriteNumbers": [
+        35
+      ],
+      "name": "F. Assmann",
+      "position": "GK",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 69,
+      "nation": "ARGENTINA",
+      "homegrown": "ARGENTINA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        13
+      ],
+      "name": "M. Toni",
+      "position": "CB",
+      "eFootball": "2021M",
+      "pesID": null,
+      "overall": 69,
+      "nation": "ARGENTINA",
+      "homegrown": "ARGENTINA",
+      "secondNation": "CROATIA"
+    },
+    {
+      "favoriteNumbers": [
+        11
+      ],
+      "name": "G. Cabrera",
+      "position": "LWF",
+      "eFootball": "2021",
+      "pesID": 45588,
+      "overall": 69,
+      "nation": "ARGENTINA",
+      "homegrown": "ARGENTINA",
+      "secondNation": "IRAQ"
+    },
+    {
+      "favoriteNumbers": [
+        20
+      ],
+      "name": "M. Barreiro",
+      "position": "CF",
+      "eFootball": "2019",
+      "pesID": 126808,
+      "overall": 69,
+      "nation": "ARGENTINA",
+      "homegrown": "ARGENTINA",
+      "secondNation": "ECUADOR"
+    },
+    {
+      "favoriteNumbers": [
+        19
+      ],
+      "name": "F. Castillon",
+      "position": "RWF",
+      "eFootball": "2020",
+      "pesID": 45590,
+      "overall": 68,
+      "nation": "ARGENTINA",
+      "homegrown": "ARGENTINA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        26
+      ],
+      "name": "J. Requena",
+      "position": "AMF",
+      "eFootball": "2019",
+      "pesID": 102829,
+      "overall": 67,
+      "nation": "ARGENTINA",
+      "homegrown": "ARGENTINA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        27
+      ],
+      "name": "A. Casco",
+      "position": "LMF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "overall": 66,
+      "nation": "ARGENTINA",
+      "homegrown": "ARGENTINA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        2
+      ],
+      "name": "R. Alfani",
+      "position": "CB",
+      "eFootball": "2019",
+      "pesID": 114744,
+      "overall": 65,
+      "nation": "ARGENTINA",
+      "homegrown": "ARGENTINA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        6
+      ],
+      "name": "R. Zamponi",
+      "position": "CB",
+      "eFootball": "2021",
+      "pesID": 130632,
+      "overall": 64,
+      "nation": "ARGENTINA",
+      "homegrown": "ARGENTINA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        29
+      ],
+      "name": "I. Suarez",
+      "position": "AMF",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 64,
+      "nation": "ARGENTINA",
+      "homegrown": "ARGENTINA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        9
+      ],
+      "name": "G. di Pizio",
+      "position": "CF",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 64,
+      "nation": "ARGENTINA",
+      "homegrown": "ARGENTINA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Facundo Daffonchio",
+      "position": "GK",
+      "eFootball": "2021M",
+      "pesID": null,
+      "overall": 63,
+      "nation": "ARGENTINA",
+      "homegrown": "ARGENTINA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        8
+      ],
+      "name": "M. La Mastra",
+      "position": "AMF",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 63,
+      "nation": "ARGENTINA",
+      "homegrown": "ARGENTINA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Leonel Caffaratti",
+      "position": "GK",
+      "eFootball": "2021M",
+      "pesID": null,
+      "overall": 62,
+      "nation": "ARGENTINA",
+      "homegrown": "ARGENTINA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        30
+      ],
+      "name": "S. L. Cuerdo",
+      "position": "GK",
+      "eFootball": "2021",
+      "pesID": 43874,
+      "overall": 67,
+      "nation": "ARGENTINA",
+      "homegrown": "ARGENTINA",
+      "secondNation": "ITALY"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Lucas Sotero",
+      "position": "AMF",
+      "eFootball": "2020",
+      "pesID": null,
+      "overall": 67,
+      "nation": "BRAZIL",
+      "homegrown": "BRAZIL",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Nildo",
+      "position": "CMF",
+      "eFootball": "2020",
+      "pesID": null,
+      "overall": 65,
+      "nation": "BRAZIL",
+      "homegrown": "BRAZIL",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "G. Hadlich",
+      "position": "LB",
+      "eFootball": "2020",
+      "pesID": 130033,
+      "overall": 62,
+      "nation": "BRAZIL",
+      "homegrown": "BRAZIL",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "A. Cajuru",
+      "position": "GK",
+      "eFootball": "2021",
+      "pesID": 107578,
+      "overall": 63,
+      "nation": "BRAZIL",
+      "homegrown": "BRAZIL",
+      "secondNation": "ITALY"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Rodrigo Viana",
+      "position": "GK",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 66,
+      "nation": "BRAZIL",
+      "homegrown": "BRAZIL",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Rafinha",
+      "position": "LB",
+      "eFootball": "2022",
+      "pesID": 130092,
+      "overall": 68,
+      "nation": "BRAZIL",
+      "homegrown": "BRAZIL",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Deivid",
+      "position": "DMF",
+      "eFootball": "2022",
+      "pesID": 58667,
+      "overall": 69,
+      "nation": "BRAZIL",
+      "homegrown": "BRAZIL",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Pedro Junior",
+      "position": "CF",
+      "eFootball": "2022",
+      "pesID": 37263,
+      "overall": 68,
+      "nation": "BRAZIL",
+      "homegrown": "BRAZIL",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Marcel Pereira",
+      "position": "DMF",
+      "eFootball": "2022",
+      "pesID": 112739,
+      "overall": 66,
+      "nation": "BRAZIL",
+      "homegrown": "BRAZIL",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Leandro Carrijó",
+      "position": "CF",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 64,
+      "nation": "BRAZIL",
+      "homegrown": "BRAZIL",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Gabriel",
+      "position": "LB",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 63,
+      "nation": "BRAZIL",
+      "homegrown": "BRAZIL",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Lucas Fonseca",
+      "position": "CB",
+      "eFootball": "2021M",
+      "pesID": null,
+      "overall": 72,
+      "nation": "BRAZIL",
+      "homegrown": "BRAZIL",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Adriano Correia",
+      "position": "LB",
+      "eFootball": "2021M",
+      "pesID": 30238,
+      "overall": 73,
+      "nation": "BRAZIL",
+      "homegrown": "BRAZIL",
+      "secondNation": "SPAIN"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Fernandinho",
+      "position": "RWF",
+      "eFootball": "2021M",
+      "pesID": 63698,
+      "overall": 73,
+      "nation": "BRAZIL",
+      "homegrown": "BRAZIL",
+      "secondNation": "CHINA"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Ivo",
+      "position": "CMF",
+      "eFootball": "2021M",
+      "pesID": 58704,
+      "overall": 71,
+      "nation": "BRAZIL",
+      "homegrown": "BRAZIL",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Felipe Silva",
+      "position": "AMF",
+      "eFootball": "2021M",
+      "pesID": 46088,
+      "overall": 71,
+      "nation": "BRAZIL",
+      "homegrown": "BRAZIL",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Wanderley",
+      "position": "CF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "overall": 66,
+      "nation": "BRAZIL",
+      "homegrown": "BRAZIL",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Bruno Paulo",
+      "position": "SS",
+      "eFootball": "2021M",
+      "pesID": 113581,
+      "overall": 65,
+      "nation": "BRAZIL",
+      "homegrown": "BRAZIL",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Bruno Paulista",
+      "position": "DMF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "overall": "69",
+      "nation": "BRAZIL",
+      "homegrown": "BRAZIL",
+      "secondNation": "PORTUGAL"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Alan Schons",
+      "position": "DMF",
+      "eFootball": "2020",
+      "pesID": null,
+      "overall": 67,
+      "nation": "BRAZIL",
+      "homegrown": "BRAZIL",
+      "secondNation": "PORTUGAL"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Wellington Luis",
+      "position": "GK",
+      "eFootball": "2021M",
+      "pesID": null,
+      "overall": "67",
+      "nation": "BRAZIL",
+      "homegrown": "BRAZIL",
+      "secondNation": "PORTUGAL"
+    },
+    {
+      "favoriteNumbers": [
+        15
+      ],
+      "name": "C. Jopia",
+      "position": "LB",
+      "eFootball": "2020",
+      "pesID": 102042,
+      "overall": 68,
+      "nation": "CHILE",
+      "homegrown": "CHILE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        5
+      ],
+      "name": "F. Ramos",
+      "position": "DMF",
+      "eFootball": "2021",
+      "pesID": 134890,
+      "overall": 65,
+      "nation": "CHILE",
+      "homegrown": "CHILE",
+      "secondNation": "ARGENTINA"
+    },
+    {
+      "favoriteNumbers": [
+        16
+      ],
+      "name": "J. Soto",
+      "position": "RB",
+      "eFootball": "2020",
+      "pesID": 111961,
+      "overall": 68,
+      "nation": "CHILE",
+      "homegrown": "CHILE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        14
+      ],
+      "name": "M. Bravo",
+      "position": "LB",
+      "eFootball": "2020",
+      "pesID": 102542,
+      "overall": 68,
+      "nation": "CHILE",
+      "homegrown": "CHILE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        25
+      ],
+      "name": "F. Saavedra",
+      "position": "RWF",
+      "eFootball": "2021",
+      "pesID": 43998,
+      "overall": 67,
+      "nation": "CHILE",
+      "homegrown": "CHILE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        23
+      ],
+      "name": "S. Cespedes",
+      "position": "AMF",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 67,
+      "nation": "CHILE",
+      "homegrown": "CHILE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        30
+      ],
+      "name": "N. Castillo",
+      "position": "CF",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 69,
+      "nation": "CHILE",
+      "homegrown": "CHILE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        25
+      ],
+      "name": "C. Guerra",
+      "position": "GK",
+      "eFootball": "2021",
+      "pesID": 44011,
+      "overall": 67,
+      "nation": "CHILE",
+      "homegrown": "CHILE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        27
+      ],
+      "name": "J. Espinoza",
+      "position": "RB",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 67,
+      "nation": "CHILE",
+      "homegrown": "CHILE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        1
+      ],
+      "name": "G. Mall",
+      "position": "GK",
+      "eFootball": "2021",
+      "pesID": 134865,
+      "overall": 63,
+      "nation": "CHILE",
+      "homegrown": "CHILE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        33
+      ],
+      "name": "R. Cepeda",
+      "position": "DMF",
+      "eFootball": "2019",
+      "pesID": 61650,
+      "overall": 69,
+      "nation": "CHILE",
+      "homegrown": "CHILE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        20
+      ],
+      "name": "G. Diaz",
+      "position": "LB",
+      "eFootball": "2019",
+      "pesID": 108872,
+      "overall": 67,
+      "nation": "CHILE",
+      "homegrown": "CHILE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        41
+      ],
+      "name": "M. Sandoval",
+      "position": "CMF",
+      "eFootball": "2019",
+      "pesID": null,
+      "overall": 67,
+      "nation": "CHILE",
+      "homegrown": "CHILE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        11
+      ],
+      "name": "M. Jadue",
+      "position": "CF",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 66,
+      "nation": "CHILE",
+      "homegrown": "CHILE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        18
+      ],
+      "name": "M. Cubillos",
+      "position": "RWF",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 66,
+      "nation": "CHILE",
+      "homegrown": "CHILE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        36
+      ],
+      "name": "A. Carvallo",
+      "position": "AMF",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 66,
+      "nation": "CHILE",
+      "homegrown": "CHILE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        17
+      ],
+      "name": "A. Moreno",
+      "position": "RB",
+      "eFootball": "2020",
+      "pesID": 105456,
+      "overall": 66,
+      "nation": "CHILE",
+      "homegrown": "CHILE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        39
+      ],
+      "name": "B. Saavedra",
+      "position": "LB",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 65,
+      "nation": "CHILE",
+      "homegrown": "CHILE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        10
+      ],
+      "name": "R. Fuenzalida",
+      "position": "LMF",
+      "eFootball": "2021",
+      "pesID": 127772,
+      "overall": 64,
+      "nation": "CHILE",
+      "homegrown": "CHILE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        31
+      ],
+      "name": "L. Olivera",
+      "position": "CF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "overall": 64,
+      "nation": "CHILE",
+      "homegrown": "CHILE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        13
+      ],
+      "name": "I. Peralta",
+      "position": "AMF",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 63,
+      "nation": "CHILE",
+      "homegrown": "CHILE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        32
+      ],
+      "name": "K. Baeza",
+      "position": "CF",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 60,
+      "nation": "CHILE",
+      "homegrown": "CHILE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Duvan Gonzalez",
+      "position": "LB",
+      "eFootball": "2021M",
+      "pesID": null,
+      "overall": 64,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "M. Ospino",
+      "position": "GK",
+      "eFootball": "Y",
+      "pesID": null,
+      "overall": 60,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Juan Flórez",
+      "position": "DMF",
+      "eFootball": "Y",
+      "pesID": null,
+      "overall": 60,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "John Henry Sanchez",
+      "position": "LWF",
+      "eFootball": "Y",
+      "pesID": null,
+      "overall": 60,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Duvan Sanchez",
+      "position": "CF",
+      "eFootball": "Y",
+      "pesID": null,
+      "overall": 61,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "G. Sanchez",
+      "position": "GK",
+      "eFootball": "Y",
+      "pesID": null,
+      "overall": 62,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Juan David Velez",
+      "position": "CMF",
+      "eFootball": "Y",
+      "pesID": null,
+      "overall": 62,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Sergio Pabón",
+      "position": "GK",
+      "eFootball": "2020",
+      "pesID": null,
+      "overall": 63,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Juan Caicedo",
+      "position": "CB",
+      "eFootball": "2021M",
+      "pesID": null,
+      "overall": 63,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Stiwar García",
+      "position": "RWF",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 64,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "E. Giraldo",
+      "position": "GK",
+      "eFootball": "2021M",
+      "pesID": null,
+      "overall": 64,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Jesus Murillo",
+      "position": "LB",
+      "eFootball": "2020",
+      "pesID": null,
+      "overall": 64,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Denis Mena",
+      "position": "RB",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 65,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Jelinson Mosquera",
+      "position": "DMF",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 65,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Jhon Labastidas",
+      "position": "AMF",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 65,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Roger Lemus",
+      "position": "AMF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "overall": 65,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Fernei Ibarguen",
+      "position": "CB",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 66,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Jossymar Gomez",
+      "position": "DMF",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 66,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Hanyer Mosquera",
+      "position": "CB",
+      "eFootball": "2021M",
+      "pesID": null,
+      "overall": 66,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Javier Calle",
+      "position": "CMF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "overall": 66,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Giovanny Martínez",
+      "position": "RMF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "overall": 66,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Jhoan Arenas",
+      "position": "AMF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "overall": 66,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Fabio Castillo",
+      "position": "RB",
+      "eFootball": "2020",
+      "pesID": null,
+      "overall": 66,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Michael Lopez",
+      "position": "LMF",
+      "eFootball": "2020",
+      "pesID": null,
+      "overall": 66,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Ramon Cordoba",
+      "position": "CB",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 67,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Nicolas Carreño",
+      "position": "LB",
+      "eFootball": "2021M",
+      "pesID": null,
+      "overall": 67,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Cristian Higuita",
+      "position": "CMF",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 67,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Michael Ordóñez",
+      "position": "CMF",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 67,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Cristian Palomeque",
+      "position": "LWF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "overall": 67,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Cesar Giraldo",
+      "position": "GK",
+      "eFootball": "2020",
+      "pesID": null,
+      "overall": 68,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "John Jairo Mosquera",
+      "position": "CF",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 68,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Juan Camilo Vela",
+      "position": "CMF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "overall": 68,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "John Hernandez",
+      "position": "CMF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "overall": 68,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        26
+      ],
+      "name": "Janeiler Rivas",
+      "position": "CB",
+      "eFootball": "2020",
+      "pesID": null,
+      "overall": 69,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Cléider Alzáte",
+      "position": "RWF",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 69,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Yulian Mejia",
+      "position": "AMF",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 70,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Johan Arango",
+      "position": "SS",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 70,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Harrison Otálvaro",
+      "position": "AMF",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": 70,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Andres Ramiro Escobar",
+      "position": "SS",
+      "eFootball": "2021M",
+      "pesID": null,
+      "overall": 70,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Cesar Amaya",
+      "position": "CF",
+      "eFootball": "2020",
+      "pesID": null,
+      "overall": 70,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Carlos Carbonero",
+      "position": "AMF",
+      "eFootball": "2020",
+      "pesID": null,
+      "overall": 74,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Jhon Mena",
+      "position": "LB",
+      "eFootball": "2021M",
+      "pesID": null,
+      "overall": 63,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Damir Zamora",
+      "position": "CB",
+      "eFootball": "2021M",
+      "pesID": null,
+      "overall": 60,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "L. Jimenez",
+      "position": "CB",
+      "eFootball": "2021M",
+      "pesID": 41620,
+      "overall": 66,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": "MEXICO"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "H. Burbano",
+      "position": "LMF",
+      "eFootball": "2022",
+      "pesID": 47598,
+      "overall": 65,
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": "MEXICO"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Didier Delgado",
+      "position": "RB",
+      "eFootball": "2021M",
+      "pesID": null,
+      "overall": "72",
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Hector Quiñones",
+      "position": "LB",
+      "eFootball": "2022",
+      "pesID": null,
+      "overall": "68",
+      "nation": "COLOMBIA",
+      "homegrown": "COLOMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        13
+      ],
+      "name": "Rubén",
+      "position": "GK",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "SPAIN",
+      "overall": "74",
+      "nation": "SPAIN",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        37
+      ],
+      "name": "M. Musacchio",
+      "position": "CB",
+      "eFootball": "2022",
+      "pesID": 37114,
+      "homegrown": "SPAIN",
+      "overall": "75",
+      "nation": "ARGENTINA",
+      "secondNation": "ITALY"
+    },
+    {
+      "favoriteNumbers": [
+        3
+      ],
+      "name": "Marc Navarro",
+      "position": "RB",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "SPAIN",
+      "overall": "70",
+      "nation": "SPAIN",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "I. Sissoko",
+      "position": "AMF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "SPAIN",
+      "overall": "69",
+      "nation": "IVORY COAST",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        21
+      ],
+      "name": "Víctor Álvarez",
+      "position": "LB",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "SPAIN",
+      "overall": "76",
+      "nation": "SPAIN",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "G. dos Santos",
+      "position": "AMF",
+      "eFootball": "2019",
+      "pesID": 33699,
+      "homegrown": "SPAIN",
+      "overall": "71",
+      "nation": "MEXICO",
+      "secondNation": "SPAIN"
+    },
+    {
+      "favoriteNumbers": [
+        8
+      ],
+      "name": "Azeez",
+      "position": "CMF",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "SPAIN",
+      "overall": "73",
+      "nation": "NIGERIA",
+      "secondNation": "SPAIN"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "A. Tetteh",
+      "position": "DMF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "SPAIN",
+      "overall": "69",
+      "nation": "GHANA",
+      "secondNation": "SPAIN"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Verza",
+      "position": "CMF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "SPAIN",
+      "overall": "67",
+      "nation": "SPAIN",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        16
+      ],
+      "name": "Carlos Castro",
+      "position": "CF",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "SPAIN",
+      "overall": "67",
+      "nation": "SPAIN",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Fran Sandaza",
+      "position": "CF",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "SPAIN",
+      "overall": "67",
+      "nation": "SPAIN",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Fabian Giefer",
+      "position": "GK",
+      "eFootball": "2018 LOL",
+      "pesID": null,
+      "homegrown": "GERMANY",
+      "overall": "70",
+      "nation": "GERMANY",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Ivan Paurevic",
+      "position": "DMF",
+      "eFootball": "2020",
+      "pesID": null,
+      "homegrown": "GERMANY",
+      "overall": "71",
+      "nation": "CROATIA",
+      "secondNation": "GERMANY"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Fabian Johnson",
+      "position": "LMF",
+      "eFootball": "2019",
+      "pesID": 46591,
+      "homegrown": "GERMANY",
+      "overall": "75",
+      "nation": "USA",
+      "secondNation": "GERMANY"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Lukas Schmitz",
+      "position": "LB",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "GERMANY",
+      "overall": "70",
+      "nation": "GERMANY",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Alexander Baumjohann",
+      "position": "AMF",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "GERMANY",
+      "overall": "71",
+      "nation": "GERMANY",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Mehmet Ekici",
+      "position": "AMF",
+      "eFootball": "2021",
+      "pesID": 41604,
+      "homegrown": "GERMANY",
+      "overall": "72",
+      "nation": "TURKEY",
+      "secondNation": "GERMANY"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Orkan Çinar",
+      "position": "RWF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "GERMANY",
+      "overall": "67",
+      "nation": "TURKEY",
+      "secondNation": "GERMANY"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "W. Fall",
+      "position": "CMF",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "GERMANY",
+      "overall": "64",
+      "nation": "GERMANY",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Gorkem Can",
+      "position": "CB",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "GERMANY",
+      "overall": "62",
+      "nation": "TURKEY",
+      "secondNation": "GERMANY"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Aydin Karabulut",
+      "position": "RWF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "GERMANY",
+      "overall": "65",
+      "nation": "TURKEY",
+      "secondNation": "GERMANY"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Furkan Simsek",
+      "position": "DMF",
+      "eFootball": "2019",
+      "pesID": null,
+      "homegrown": "GERMANY",
+      "overall": "66",
+      "nation": "TURKEY",
+      "secondNation": "GERMANY"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Baris Özbek",
+      "position": "CMF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "GERMANY",
+      "overall": "64",
+      "nation": "GERMANY",
+      "secondNation": "TURKEY"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Lukas Fahrnberger",
+      "position": "DMF",
+      "eFootball": "202X",
+      "pesID": null,
+      "homegrown": "GERMANY",
+      "overall": "66",
+      "nation": "AUSTRIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        12
+      ],
+      "name": "S. Marveaux",
+      "position": "AMF",
+      "eFootball": "2021M",
+      "pesID": 34848,
+      "homegrown": "FRANCE",
+      "overall": 68,
+      "nation": "FRANCE",
+      "secondNation": "MARTINIQUE"
+    },
+    {
+      "favoriteNumbers": [
+        12
+      ],
+      "name": "J. Gnagnon",
+      "position": "CB",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "FRANCE",
+      "overall": "74",
+      "nation": "FRANCE",
+      "secondNation": "IVORY COAST"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "M. Wagué",
+      "position": "CB",
+      "eFootball": "2022",
+      "pesID": 45079,
+      "homegrown": "FRANCE",
+      "overall": 70,
+      "nation": "MALI",
+      "secondNation": "FRANCE"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "P. Gouano",
+      "position": "CB",
+      "eFootball": "2021M",
+      "pesID": 102536,
+      "homegrown": "FRANCE",
+      "overall": 69,
+      "nation": "FRANCE",
+      "secondNation": "SENEGAL"
+    },
+    {
+      "favoriteNumbers": [
+        2
+      ],
+      "name": "P. Paye",
+      "position": "RB",
+      "eFootball": "2021",
+      "pesID": 100944,
+      "homegrown": "FRANCE",
+      "overall": 68,
+      "nation": "FRANCE",
+      "secondNation": "SENEGAL"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Y. Coulibaly",
+      "position": "LB",
+      "eFootball": "2021M",
+      "pesID": 116112,
+      "homegrown": "FRANCE",
+      "overall": 69,
+      "nation": "BURKINA FASO",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        6
+      ],
+      "name": "Y. Sankharé",
+      "position": "CMF",
+      "eFootball": "2022",
+      "pesID": 37021,
+      "homegrown": "FRANCE",
+      "overall": 71,
+      "nation": "SENEGAL",
+      "secondNation": "FRANCE"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "M. Deplagne",
+      "position": "RB",
+      "eFootball": "2022",
+      "pesID": 45096,
+      "homegrown": "FRANCE",
+      "overall": 69,
+      "nation": "FRANCE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "B. Pelé",
+      "position": "LMF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "FRANCE",
+      "overall": 69,
+      "nation": "FRANCE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "S. Privat",
+      "position": "CF",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "FRANCE",
+      "overall": 67,
+      "nation": "FRANCE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        19
+      ],
+      "name": "E. Rivieré",
+      "position": "CF",
+      "eFootball": "2022",
+      "pesID": 38442,
+      "homegrown": "FRANCE",
+      "overall": 71,
+      "nation": "FRANCE",
+      "secondNation": "MARTINIQUE"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "A. Baby",
+      "position": "LWF",
+      "eFootball": "2021",
+      "pesID": 103214,
+      "homegrown": "FRANCE",
+      "overall": 69,
+      "nation": "SENEGAL",
+      "secondNation": "FRANCE"
+    },
+    {
+      "favoriteNumbers": [
+        14
+      ],
+      "name": "J. Keita",
+      "position": "LWF",
+      "eFootball": "2022",
+      "pesID": 126166,
+      "homegrown": "FRANCE",
+      "overall": 67,
+      "nation": "GUINEA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "S. Diallo",
+      "position": "CMF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "FRANCE",
+      "overall": 67,
+      "nation": "GUINEA",
+      "secondNation": "FRANCE"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "M. Cassara",
+      "position": "GK",
+      "eFootball": "2019",
+      "pesID": null,
+      "homegrown": "FRANCE",
+      "overall": 65,
+      "nation": "FRANCE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "D. Zola",
+      "position": "DMF",
+      "eFootball": "2022",
+      "pesID": 102396,
+      "homegrown": "FRANCE",
+      "overall": 66,
+      "nation": "CONGO",
+      "secondNation": "FRANCE"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Y. Musavu-King",
+      "position": "CB",
+      "eFootball": "2020",
+      "pesID": null,
+      "homegrown": "FRANCE",
+      "overall": 66,
+      "nation": "GABON",
+      "secondNation": "FRANCE"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "F. Bulot",
+      "position": "RMF",
+      "eFootball": "2020",
+      "pesID": null,
+      "homegrown": "FRANCE",
+      "overall": 66,
+      "nation": "GABON",
+      "secondNation": "FRANCE"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "A. Keita",
+      "position": "DMF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "FRANCE",
+      "overall": 65,
+      "nation": "MALI",
+      "secondNation": "FRANCE"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Y. Banana",
+      "position": "CB",
+      "eFootball": "2020",
+      "pesID": null,
+      "homegrown": "FRANCE",
+      "overall": 67,
+      "nation": "CAMEROON",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        34
+      ],
+      "name": "C. Souaré",
+      "position": "CMF",
+      "eFootball": "2022",
+      "pesID": 139699,
+      "homegrown": "FRANCE",
+      "overall": 61,
+      "nation": "FRANCE",
+      "secondNation": "GUINEA"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "M. Chergui",
+      "position": "RWF",
+      "eFootball": "2021M",
+      "pesID": 122844,
+      "homegrown": "FRANCE",
+      "overall": 69,
+      "nation": "FRANCE",
+      "secondNation": "MOROCCO"
+    },
+    {
+      "favoriteNumbers": [
+        29
+      ],
+      "name": "Y. Saidani",
+      "position": "GK",
+      "eFootball": "2022",
+      "pesID": 143672,
+      "homegrown": "FRANCE",
+      "overall": 60,
+      "nation": "FRANCE",
+      "secondNation": "ALGERIA"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "M. Maouche",
+      "position": "CMF",
+      "eFootball": "2021M",
+      "pesID": 109245,
+      "homegrown": "FRANCE",
+      "overall": 62,
+      "nation": "FRANCE",
+      "secondNation": "ALGERIA"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Cécé Pepe",
+      "position": "CB",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "FRANCE",
+      "overall": 64,
+      "nation": "FRANCE",
+      "secondNation": "IVORY COAST"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Elohim Rolland",
+      "position": "DMF",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "FRANCE",
+      "overall": 68,
+      "nation": "FRANCE",
+      "secondNation": "ALGERIA"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Percy Prado",
+      "position": "RB",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "FRANCE",
+      "overall": "66",
+      "nation": "PERU",
+      "secondNation": "FRANCE"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "J. Martial",
+      "position": "CB",
+      "eFootball": "2021",
+      "pesID": 42586,
+      "homegrown": "FRANCE",
+      "overall": "67",
+      "nation": "FRANCE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [19],
+      "name": "R. Barroilhet",
+      "position": "CF",
+      "eFootball": "2021M",
+      "pesID": 47266,
+      "homegrown": "FRANCE",
+      "overall": 70,
+      "nation": "FRANCE",
+      "secondNation": "CHILE"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "T. Heurtaux",
+      "position": "CB",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "FRANCE",
+      "overall": 69,
+      "nation": "FRANCE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        23
+      ],
+      "name": "L. Antei",
+      "position": "CB",
+      "eFootball": "Y",
+      "pesID": null,
+      "homegrown": "ITALY",
+      "overall": 74,
+      "nation": "ITALY",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        19
+      ],
+      "name": "Afriyie Acquah",
+      "position": "CMF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "ITALY",
+      "overall": 73,
+      "nation": "GHANA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        20
+      ],
+      "name": "A. Stoian",
+      "position": "LWF",
+      "eFootball": "Y",
+      "pesID": null,
+      "homegrown": "ITALY",
+      "overall": 70,
+      "nation": "ROMANIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Alessio Cerci",
+      "position": "RWF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "ITALY",
+      "overall": 69,
+      "nation": "ITALY",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        9
+      ],
+      "name": "Han Kwang-Song",
+      "position": "CF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "ITALY",
+      "overall": 72,
+      "nation": "NORTH KOREA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "G. Figliuzzi",
+      "position": "GK",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "ITALY",
+      "overall": 61,
+      "nation": "ITALY",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "L. Ruggiero",
+      "position": "GK",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "ITALY",
+      "overall": 58,
+      "nation": "ITALY",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Stanley Amuzie",
+      "position": "LB",
+      "eFootball": "2019",
+      "pesID": null,
+      "homegrown": "ITALY",
+      "overall": 66,
+      "nation": "NIGERIA",
+      "secondNation": "ITALY"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "David Milinkovic",
+      "position": "LMF",
+      "eFootball": "2020",
+      "pesID": null,
+      "homegrown": "ITALY",
+      "overall": 65,
+      "nation": "FRANCE",
+      "secondNation": "ITALY"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "A. Marie-Sainte",
+      "position": "CB",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "ITALY",
+      "overall": 63,
+      "nation": "MARTINIQUE",
+      "secondNation": "ITALY"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Raul Obleac",
+      "position": "CMF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "ITALY",
+      "overall": 61,
+      "nation": "MOLDOVA",
+      "secondNation": "ITALY"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Timo Righetti",
+      "position": "CB",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "ITALY",
+      "overall": 61,
+      "nation": "SWITZERLAND",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        16
+      ],
+      "name": "K. Shimizu",
+      "position": "LMF",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "JAPAN",
+      "overall": 65,
+      "nation": "JAPAN",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        23
+      ],
+      "name": "R. Karube",
+      "position": "DMF",
+      "eFootball": "2021M",
+      "pesID": 125644,
+      "homegrown": "JAPAN",
+      "overall": 64,
+      "nation": "JAPAN",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        25
+      ],
+      "name": "Mizuki Hayashi",
+      "position": "GK",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "JAPAN",
+      "overall": 63,
+      "nation": "JAPAN",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        6
+      ],
+      "name": "T. Sakai",
+      "position": "CB",
+      "eFootball": "2021M",
+      "pesID": 16720,
+      "homegrown": "JAPAN",
+      "overall": 63,
+      "nation": "JAPAN",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "C. Kato",
+      "position": "LB",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "JAPAN",
+      "overall": 62,
+      "nation": "JAPAN",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "K. Kume",
+      "position": "LB",
+      "eFootball": "2020",
+      "pesID": 128776,
+      "homegrown": "JAPAN",
+      "overall": 61,
+      "nation": "JAPAN",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        19
+      ],
+      "name": "A. Tachibana",
+      "position": "CF",
+      "eFootball": "2021M",
+      "pesID": 124185,
+      "homegrown": "JAPAN",
+      "overall": 61,
+      "nation": "JAPAN",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "E. Noriega",
+      "position": "CB",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "JAPAN",
+      "overall": 61,
+      "nation": "PERU",
+      "secondNation": "JAPAN"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "D. Kobayashi",
+      "position": "CMF",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "JAPAN",
+      "overall": 61,
+      "nation": "JAPAN",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Y. Takeshima",
+      "position": "CB",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "JAPAN",
+      "overall": 60,
+      "nation": "JAPAN",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        37
+      ],
+      "name": "T. Sotome",
+      "position": "CF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "JAPAN",
+      "overall": 59,
+      "nation": "JAPAN",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        27
+      ],
+      "name": "H. Nakagawa",
+      "position": "CF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "JAPAN",
+      "overall": 58,
+      "nation": "JAPAN",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "E. Castillo",
+      "position": "LB",
+      "eFootball": "2022",
+      "pesID": 106278,
+      "homegrown": "MEXICO",
+      "overall": 69,
+      "nation": "USA",
+      "secondNation": "MEXICO"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "O. Bernal",
+      "position": "RB",
+      "eFootball": "2020",
+      "pesID": 61551,
+      "homegrown": "MEXICO",
+      "overall": 68,
+      "nation": "MEXICO",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "M. Bueno",
+      "position": "CF",
+      "eFootball": "2019",
+      "pesID": 119088,
+      "homegrown": "MEXICO",
+      "overall": 68,
+      "nation": "MEXICO",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "R. Salinas",
+      "position": "RB",
+      "eFootball": "2022",
+      "pesID": 61437,
+      "homegrown": "MEXICO",
+      "overall": 67,
+      "nation": "MEXICO",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "E. Nungaray",
+      "position": "CMF",
+      "eFootball": "2022",
+      "pesID": 142754,
+      "homegrown": "MEXICO",
+      "overall": 67,
+      "nation": "USA",
+      "secondNation": "MEXICO"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "C. Calvo",
+      "position": "CB",
+      "eFootball": "2022",
+      "pesID": 106300,
+      "homegrown": "MEXICO",
+      "overall": 66,
+      "nation": "MEXICO",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "G. Buron",
+      "position": "RB",
+      "eFootball": "2022",
+      "pesID": 118751,
+      "homegrown": "MEXICO",
+      "overall": 66,
+      "nation": "MEXICO",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "J. Levin",
+      "position": "CMF",
+      "eFootball": "2022",
+      "pesID": 148962,
+      "homegrown": "MEXICO",
+      "overall": 66,
+      "nation": "MEXICO",
+      "secondNation": "USA"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "A. Rios",
+      "position": "DMF",
+      "eFootball": "2014 😂",
+      "pesID": 48024,
+      "homegrown": "MEXICO",
+      "overall": 66,
+      "nation": "MEXICO",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "J. Nava",
+      "position": "LB",
+      "eFootball": "2013 😂",
+      "pesID": 41402,
+      "homegrown": "MEXICO",
+      "overall": 65,
+      "nation": "MEXICO",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "R. Salcedo",
+      "position": "GK",
+      "eFootball": "2022",
+      "pesID": 154606,
+      "homegrown": "MEXICO",
+      "overall": 64,
+      "nation": "MEXICO",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "L. Lozoya",
+      "position": "LB",
+      "eFootball": "2022",
+      "pesID": 147936,
+      "homegrown": "MEXICO",
+      "overall": 64,
+      "nation": "MEXICO",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "L. Kontogiannis",
+      "position": "CB",
+      "eFootball": "2016 😂",
+      "pesID": null,
+      "homegrown": "MEXICO",
+      "overall": 64,
+      "nation": "MEXICO",
+      "secondNation": "GREECE"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "J. Leon",
+      "position": "GK",
+      "eFootball": "2022",
+      "pesID": 118748,
+      "homegrown": "MEXICO",
+      "overall": 60,
+      "nation": "MEXICO",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "R. Perez",
+      "position": "CMF",
+      "eFootball": "2022",
+      "pesID": 151447,
+      "homegrown": "MEXICO",
+      "overall": 58,
+      "nation": "MEXICO",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        6
+      ],
+      "name": "J. Vukovic",
+      "position": "CB",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "NETHERLANDS",
+      "overall": "74",
+      "nation": "SERBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Jan-Arie van der Heijden",
+      "position": "CB",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "NETHERLANDS",
+      "overall": "72",
+      "nation": "NETHERLANDS",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Tom Hiariej",
+      "position": "DMF",
+      "eFootball": "2020",
+      "pesID": null,
+      "homegrown": "NETHERLANDS",
+      "overall": "67",
+      "nation": "NETHERLANDS",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Joshua John",
+      "position": "LWF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "NETHERLANDS",
+      "overall": "70",
+      "nation": "ARUBA",
+      "secondNation": "NETHERLANDS"
+    },
+    {
+      "favoriteNumbers": [
+        17
+      ],
+      "name": "R. van la Parra ",
+      "position": "LMF",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "NETHERLANDS",
+      "overall": "72",
+      "nation": "NETHERLANDS",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        11
+      ],
+      "name": "O. El Kabir ",
+      "position": "LMF",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "NETHERLANDS",
+      "overall": "73",
+      "nation": "NETHERLANDS",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        10
+      ],
+      "name": "E. Falkenburg",
+      "position": "AMF",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "NETHERLANDS",
+      "overall": "71",
+      "nation": "NETHERLANDS",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Kolbeinn Sigthórsson",
+      "position": "CF",
+      "eFootball": "2022",
+      "pesID": 42550,
+      "homegrown": "NETHERLANDS",
+      "overall": "70",
+      "nation": "ICELAND",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Piet Velthuizen",
+      "position": "GK",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "NETHERLANDS",
+      "overall": "65",
+      "nation": "NETHERLANDS",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "S. Willems",
+      "position": "CB",
+      "eFootball": "2022",
+      "pesID": 47048,
+      "homegrown": "NETHERLANDS",
+      "overall": "68",
+      "nation": "FRANCE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Anouar Kali ",
+      "position": "CMF",
+      "eFootball": "2019",
+      "pesID": null,
+      "homegrown": "NETHERLANDS",
+      "overall": "69",
+      "nation": "MOROCCO",
+      "secondNation": "NETHERLANDS"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Kyle Ebecilio",
+      "position": "CMF",
+      "eFootball": "2020",
+      "pesID": null,
+      "homegrown": "NETHERLANDS",
+      "overall": "71",
+      "nation": "NETHERLANDS",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Z. de la Paz",
+      "position": "GK",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "NETHERLANDS",
+      "overall": "61",
+      "nation": "CURAÇAO",
+      "secondNation": "NETHERLANDS"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Henk Bos",
+      "position": "AMF",
+      "eFootball": "2020",
+      "pesID": null,
+      "homegrown": "NETHERLANDS",
+      "overall": "67",
+      "nation": "NETHERLANDS",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Kai Koreniuk",
+      "position": "LWF",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "NETHERLANDS",
+      "overall": "66",
+      "nation": "NETHERLANDS",
+      "secondNation": "USA"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Sherwin Seedorf",
+      "position": "LWF",
+      "eFootball": "2021",
+      "pesID": 132406,
+      "homegrown": "NETHERLANDS",
+      "overall": "64",
+      "nation": "NETHERLANDS",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Geoffrey Castillion",
+      "position": "CF",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "NETHERLANDS",
+      "overall": "64",
+      "nation": "NETHERLANDS",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Andre Wisdom",
+      "position": "CB",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "ENGLAND",
+      "overall": "70",
+      "nation": "ENGLAND",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Josh Clarke",
+      "position": "RB",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "ENGLAND",
+      "overall": "67",
+      "nation": "ENGLAND",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "K. Dacres",
+      "position": "RWF",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "ENGLAND",
+      "overall": "67",
+      "nation": "JAMAICA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Nick Blackman",
+      "position": "RMF",
+      "eFootball": "2020",
+      "pesID": null,
+      "homegrown": "ENGLAND",
+      "overall": "71",
+      "nation": "ENGLAND",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Astrit Ajdarevic",
+      "position": "CMF",
+      "eFootball": "2019",
+      "pesID": null,
+      "homegrown": "ENGLAND",
+      "overall": "66",
+      "nation": "ALBANIA",
+      "secondNation": "ENGLAND"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "D. Mattocks",
+      "position": "CF",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "ENGLAND",
+      "overall": "70",
+      "nation": "JAMAICA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Dion McGhee",
+      "position": "AMF",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "ENGLAND",
+      "overall": "64",
+      "nation": "ENGLAND",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Aymen Tahar",
+      "position": "CMF",
+      "eFootball": "2020",
+      "pesID": null,
+      "homegrown": "ENGLAND",
+      "overall": "64",
+      "nation": "ENGLAND",
+      "secondNation": "ALGERIA"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "C. Yates",
+      "position": "GK",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "ENGLAND",
+      "overall": "59",
+      "nation": "SCOTLAND",
+      "secondNation": "ENGLAND"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Scott Glover",
+      "position": "CB",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "ENGLAND",
+      "overall": "62",
+      "nation": "SCOTLAND",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Brandon Pierrick",
+      "position": "RWF",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "ENGLAND",
+      "overall": "63",
+      "nation": "ENGLAND",
+      "secondNation": "CAMEROON"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Tim Blackwood",
+      "position": "CF",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "ENGLAND",
+      "overall": "60",
+      "nation": "ENGLAND",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "B. Foster-Theniger",
+      "position": "GK",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "ENGLAND",
+      "overall": "58",
+      "nation": "ENGLAND",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        31
+      ],
+      "name": "Y. Godzyur",
+      "position": "GK",
+      "eFootball": "2021M",
+      "pesID": 122249,
+      "homegrown": "EUROPE",
+      "overall": 73,
+      "nation": "RUSSIA",
+      "secondNation": "UKRAINE"
+    },
+    {
+      "favoriteNumbers": [
+        15
+      ],
+      "name": "D. Royer",
+      "position": "LWF",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "EUROPE",
+      "overall": "73",
+      "nation": "AUSTRIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Andreas Wittwer",
+      "position": "LB",
+      "eFootball": "2020",
+      "pesID": null,
+      "homegrown": "EUROPE",
+      "overall": "67",
+      "nation": "SWITZERLAND",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Sébastien Wüthrich",
+      "position": "AMF",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "EUROPE",
+      "overall": "66",
+      "nation": "SWITZERLAND",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "B. Aygün",
+      "position": "CMF",
+      "eFootball": "2021M",
+      "pesID": 141519,
+      "homegrown": "EUROPE",
+      "overall": "64",
+      "nation": "TURKEY",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Adonis Ajeti",
+      "position": "CB",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "EUROPE",
+      "overall": "62",
+      "nation": "ALBANIA",
+      "secondNation": "SWITZERLAND"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Oliver Ottesen",
+      "position": "GK",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "EUROPE",
+      "overall": "62",
+      "nation": "DENMARK",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Muhammad Candé",
+      "position": "LB",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "EUROPE",
+      "overall": "70",
+      "nation": "GUINEA BISSAU",
+      "secondNation": "PORTUGAL"
+    },
+    {
+      "favoriteNumbers": [
+        25
+      ],
+      "name": "Stéphane Mbia",
+      "position": "DMF",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "EUROPE",
+      "overall": "72",
+      "nation": "CAMEROON",
+      "secondNation": "FRANCE"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Serdar Ozkan",
+      "position": "LMF",
+      "eFootball": "2020",
+      "pesID": 121119,
+      "homegrown": "EUROPE",
+      "overall": "67",
+      "nation": "TURKEY",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Bogdan Stancu",
+      "position": "CF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "EUROPE",
+      "overall": "72",
+      "nation": "ROMANIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        4
+      ],
+      "name": "André Pinto",
+      "position": "CB",
+      "eFootball": "2021",
+      "pesID": 44184,
+      "homegrown": "EUROPE",
+      "overall": "70",
+      "nation": "PORTUGAL",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        22
+      ],
+      "name": "Miguel Vieira",
+      "position": "CB",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "EUROPE",
+      "overall": "66",
+      "nation": "PORTUGAL",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        24
+      ],
+      "name": "Gonçalo Duarte",
+      "position": "RB",
+      "eFootball": "2021",
+      "pesID": 114779,
+      "homegrown": "EUROPE",
+      "overall": "64",
+      "nation": "PORTUGAL",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Andrej Simunec",
+      "position": "CB",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "EUROPE",
+      "overall": 66,
+      "nation": "CROATIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "M. Rasmussen",
+      "position": "CF",
+      "eFootball": "2021",
+      "pesID": 133417,
+      "homegrown": "EUROPE",
+      "overall": 57,
+      "nation": "DENMARK",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Denis Catovic",
+      "position": "LB",
+      "eFootball": "2021",
+      "pesID": 136027,
+      "homegrown": "EUROPE",
+      "overall": 57,
+      "nation": "DENMARK",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Adélcio Varela",
+      "position": "LB",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "EUROPE",
+      "overall": 65,
+      "nation": "PORTUGAL",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Evgeny Bashkirov",
+      "position": "CMF",
+      "eFootball": "2020",
+      "pesID": null,
+      "homegrown": "EUROPE",
+      "overall": 72,
+      "nation": "RUSSIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "A. Khubulov",
+      "position": "RWF",
+      "eFootball": "2019",
+      "pesID": 122229,
+      "homegrown": "EUROPE",
+      "overall": 72,
+      "nation": "RUSSIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Roland Lamah",
+      "position": "LMF",
+      "eFootball": "Y",
+      "pesID": null,
+      "homegrown": "EUROPE",
+      "overall": 66,
+      "nation": "BELGIUM",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Tyron Ivanof",
+      "position": "AMF",
+      "eFootball": "2020",
+      "pesID": null,
+      "homegrown": "EUROPE",
+      "overall": 60,
+      "nation": "BELGIUM",
+      "secondNation": "BULGARIA"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "C. Dhauholou",
+      "position": "CF",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "EUROPE",
+      "overall": 59,
+      "nation": "BELGIUM",
+      "secondNation": "IVORY COAST"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "N. Malic",
+      "position": "CB",
+      "eFootball": "Y",
+      "pesID": null,
+      "homegrown": "EUROPE",
+      "overall": 62,
+      "nation": "BOSNIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Jasmin Ščuk",
+      "position": "DMF",
+      "eFootball": "Y",
+      "pesID": null,
+      "homegrown": "EUROPE",
+      "overall": 66,
+      "nation": "BOSNIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "M. Čovilo",
+      "position": "DMF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "EUROPE",
+      "overall": 66,
+      "nation": "SERBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Arton Zekaj",
+      "position": "DMF",
+      "eFootball": "2020",
+      "pesID": null,
+      "homegrown": "EUROPE",
+      "overall": 63,
+      "nation": "SERBIA",
+      "secondNation": "FRANCE"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Adrian Winter",
+      "position": "RMF",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "EUROPE",
+      "overall": 63,
+      "nation": "SWITZERLAND",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Ricardo Ferreira",
+      "position": "CB",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "EUROPE",
+      "overall": 70,
+      "nation": "CANADA",
+      "secondNation": "PORTUGAL"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Maxym Malyshev",
+      "position": "DMF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "EUROPE",
+      "overall": "70",
+      "nation": "UKRAINE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Aleksandr Gutor",
+      "position": "GK",
+      "eFootball": "2022",
+      "pesID": 132503,
+      "homegrown": "EUROPE",
+      "overall": "71",
+      "nation": "BELARUS",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        1
+      ],
+      "name": "S. Sy",
+      "position": "GK",
+      "eFootball": "2021",
+      "pesID": 104224,
+      "homegrown": "COTONOU",
+      "overall": 67,
+      "nation": "SENEGAL",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Seydou Soumah",
+      "position": "AMF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "COTONOU",
+      "overall": "73",
+      "nation": "GUINEA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        5
+      ],
+      "name": "Simão Mate Jr",
+      "position": "CB",
+      "eFootball": "2021",
+      "pesID": 63248,
+      "homegrown": "COTONOU",
+      "overall": "70",
+      "nation": "MOZAMBIQUE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "S. Aw",
+      "position": "LB",
+      "eFootball": "2021M",
+      "pesID": 119641,
+      "homegrown": "COTONOU",
+      "overall": "65",
+      "nation": "SENEGAL",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Jaycee John",
+      "position": "CF",
+      "eFootball": "Y",
+      "pesID": null,
+      "homegrown": "COTONOU",
+      "overall": 62,
+      "nation": "BAHRAIN",
+      "secondNation": "NIGERIA"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "F. Manneh",
+      "position": "CF",
+      "eFootball": "Y",
+      "pesID": null,
+      "homegrown": "COTONOU",
+      "overall": 57,
+      "nation": "GAMBIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Joseph Akomadi",
+      "position": "CMF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "COTONOU",
+      "overall": 63,
+      "nation": "GHANA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Willie Britto",
+      "position": "RB",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "COTONOU",
+      "overall": 64,
+      "nation": "IVORY COAST",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Papa Faye",
+      "position": "LWF",
+      "eFootball": "2021M",
+      "pesID": 135085,
+      "homegrown": "COTONOU",
+      "overall": 60,
+      "nation": "SENEGAL",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Yaya Sané",
+      "position": "CB",
+      "eFootball": "2021",
+      "pesID": 110929,
+      "homegrown": "COTONOU",
+      "overall": 66,
+      "nation": "SENEGAL",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Kekuta Manneh",
+      "position": "LWF",
+      "eFootball": "Y",
+      "pesID": null,
+      "homegrown": "COTONOU",
+      "overall": 68,
+      "nation": "USA",
+      "secondNation": "GAMBIA"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Q. Amarikwa",
+      "position": "CF",
+      "eFootball": "Y",
+      "pesID": null,
+      "homegrown": "COTONOU",
+      "overall": 65,
+      "nation": "USA",
+      "secondNation": "NIGERIA"
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "J. Boye",
+      "position": "CB",
+      "eFootball": "2022",
+      "pesID": 38934,
+      "homegrown": "COTONOU",
+      "overall": "75",
+      "nation": "GHANA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        5
+      ],
+      "name": "W. Camacho",
+      "position": "LMF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "CONMEBOL",
+      "overall": 72,
+      "nation": "URUGUAY",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Romel Quiñonez",
+      "position": "GK",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "CONMEBOL",
+      "overall": "65",
+      "nation": "BOLIVIA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        4
+      ],
+      "name": "A. Zela",
+      "position": "CB",
+      "eFootball": "2021",
+      "pesID": 41257,
+      "homegrown": "CONMEBOL",
+      "overall": "69",
+      "nation": "PERU",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Jhon Pereira",
+      "position": "CF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "CONMEBOL",
+      "overall": 65,
+      "nation": "ECUADOR",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Yamir Ruidiaz",
+      "position": "CF",
+      "eFootball": "Y",
+      "pesID": null,
+      "homegrown": "CONMEBOL",
+      "overall": 59,
+      "nation": "PERU",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Joaquin Garcia",
+      "position": "CMF",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "CONMEBOL",
+      "overall": 59,
+      "nation": "PERU",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Fernando Caro",
+      "position": "LMF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "CONMEBOL",
+      "overall": 59,
+      "nation": "PERU",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Janos Osorio",
+      "position": "CMF",
+      "eFootball": "2020",
+      "pesID": null,
+      "homegrown": "CONMEBOL",
+      "overall": 64,
+      "nation": "PERU",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "César Huamantica",
+      "position": "CMF",
+      "eFootball": "2020",
+      "pesID": null,
+      "homegrown": "CONMEBOL",
+      "overall": 66,
+      "nation": "PERU",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Tom Judge",
+      "position": "LB",
+      "eFootball": "Y",
+      "pesID": null,
+      "homegrown": "CONCACAF",
+      "overall": 61,
+      "nation": "USA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "D. Jones",
+      "position": "RWF",
+      "eFootball": "Y",
+      "pesID": null,
+      "homegrown": "CONCACAF",
+      "overall": 61,
+      "nation": "USA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Nico Lemoine",
+      "position": "RWF",
+      "eFootball": "Y",
+      "pesID": null,
+      "homegrown": "CONCACAF",
+      "overall": 62,
+      "nation": "USA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Matt Hundley",
+      "position": "LMF",
+      "eFootball": "Y",
+      "pesID": null,
+      "homegrown": "CONCACAF",
+      "overall": 64,
+      "nation": "USA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Collin Verfurth",
+      "position": "CB",
+      "eFootball": "Y",
+      "pesID": null,
+      "homegrown": "CONCACAF",
+      "overall": 66,
+      "nation": "USA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Ben Lundgaard",
+      "position": "GK",
+      "eFootball": "Y",
+      "pesID": null,
+      "homegrown": "CONCACAF",
+      "overall": 66,
+      "nation": "USA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Chris Lema",
+      "position": "DMF",
+      "eFootball": "Y",
+      "pesID": null,
+      "homegrown": "CONCACAF",
+      "overall": 67,
+      "nation": "USA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        14
+      ],
+      "name": "Nick deLeon",
+      "position": "RMF",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "CONCACAF",
+      "overall": 71,
+      "nation": "USA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "J. Villarreal",
+      "position": "CMF",
+      "eFootball": "2022",
+      "pesID": 148352,
+      "homegrown": "CONCACAF",
+      "overall": 65,
+      "nation": "USA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Andre Rawls",
+      "position": "GK",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "CONCACAF",
+      "overall": 68,
+      "nation": "USA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        32
+      ],
+      "name": "Pralong Sawandee",
+      "position": "LB",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "ASIA_J1",
+      "overall": 57,
+      "nation": "THAI",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        36
+      ],
+      "name": "Anusit Termmee",
+      "position": "GK",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "ASIA_J1",
+      "overall": 56,
+      "nation": "THAI",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        31
+      ],
+      "name": "N. Nimboon",
+      "position": "DMF",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "ASIA_J1",
+      "overall": 56,
+      "nation": "THAI",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        8
+      ],
+      "name": "Puritat Jarikanon",
+      "position": "DMF",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "ASIA_J1",
+      "overall": 56,
+      "nation": "THAI",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "T. Mahajindawong",
+      "position": "CMF",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "ASIA_J1",
+      "overall": 55,
+      "nation": "THAI",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        34
+      ],
+      "name": "A. Yunos",
+      "position": "CB",
+      "eFootball": "2021",
+      "pesID": 135604,
+      "homegrown": "ASIA_J1",
+      "overall": 59,
+      "nation": "SINGAPORE",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Chi Wenyi",
+      "position": "GK",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "ASIA_OCEANIA_NONJ1",
+      "overall": 68,
+      "nation": "CHINA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Chen Hao",
+      "position": "CB",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "ASIA_OCEANIA_NONJ1",
+      "overall": 67,
+      "nation": "CHINA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Luo Hao",
+      "position": "CB",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "ASIA_OCEANIA_NONJ1",
+      "overall": 64,
+      "nation": "CHINA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Zhang Wenzhao",
+      "position": "RMF",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "ASIA_OCEANIA_NONJ1",
+      "overall": 67,
+      "nation": "CHINA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Dong Xuesheng",
+      "position": "CF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "ASIA_OCEANIA_NONJ1",
+      "overall": "67",
+      "nation": "CHINA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Yu Hao",
+      "position": "CB",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "ASIA_OCEANIA_NONJ1",
+      "overall": 62,
+      "nation": "CHINA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Xiang Hantian",
+      "position": "LMF",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "ASIA_OCEANIA_NONJ1",
+      "overall": 63,
+      "nation": "CHINA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Jin Hui",
+      "position": "CF",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "ASIA_OCEANIA_NONJ1",
+      "overall": 64,
+      "nation": "CHINA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Sun Kai",
+      "position": "LB",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "ASIA_OCEANIA_NONJ1",
+      "overall": 65,
+      "nation": "CHINA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Song Boxuan",
+      "position": "RMF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "ASIA_OCEANIA_NONJ1",
+      "overall": 66,
+      "nation": "CHINA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Song Joon-Ho",
+      "position": "CB",
+      "eFootball": "2020",
+      "pesID": null,
+      "homegrown": "ASIA_OCEANIA_NONJ1",
+      "overall": 60,
+      "nation": "SOUTH KOREA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        15
+      ],
+      "name": "Park Jeong-Su",
+      "position": "CB",
+      "eFootball": "2021M",
+      "pesID": 121611,
+      "homegrown": "ASIA_OCEANIA_NONJ1",
+      "overall": 66,
+      "nation": "SKOREA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Lim Sun-Young",
+      "position": "AMF",
+      "eFootball": "2020",
+      "pesID": null,
+      "homegrown": "ASIA_OCEANIA_NONJ1",
+      "overall": 64,
+      "nation": "SKOREA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        25
+      ],
+      "name": "Lee Ji-Seong",
+      "position": "CMF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "ASIA_OCEANIA_NONJ1",
+      "overall": 61,
+      "nation": "SKOREA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Ham Yeong-Jun",
+      "position": "CMF",
+      "eFootball": "2020",
+      "pesID": null,
+      "homegrown": "ASIA_OCEANIA_NONJ1",
+      "overall": 61,
+      "nation": "SKOREA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Kim Min-Soo",
+      "position": "AMF",
+      "eFootball": "2021",
+      "pesID": null,
+      "homegrown": "ASIA_OCEANIA_NONJ1",
+      "overall": 60,
+      "nation": "SKOREA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        20
+      ],
+      "name": "Park Tae-Hyung",
+      "position": "CB",
+      "eFootball": "2022",
+      "pesID": null,
+      "homegrown": "ASIA_OCEANIA_NONJ1",
+      "overall": 58,
+      "nation": "SKOREA",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Joe Champness",
+      "position": "LWF",
+      "eFootball": "Y",
+      "pesID": null,
+      "homegrown": "ASIA_OCEANIA_NONJ1",
+      "overall": 64,
+      "nation": "NEW ZEALAND",
+      "secondNation": null
+    },
+    {
+      "favoriteNumbers": [
+        null
+      ],
+      "name": "Abdullaziz Al-Dawsari",
+      "position": "DMF",
+      "eFootball": "2021M",
+      "pesID": null,
+      "homegrown": "ASIA_OCEANIA_NONJ1",
+      "overall": 65,
+      "nation": "SAUDI ARABIA",
+      "secondNation": null
+    }
+  ]
+}
